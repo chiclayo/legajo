@@ -35,6 +35,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="306" column="35" lean-forward="true" selection-start-line="306" selection-start-column="35" selection-end-line="306" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_buttons.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +58,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -109,44 +118,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="legajo2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="legajo2" type="462c0819:PsiDirectoryNode" />
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legajo" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
               <item name="navs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="legajo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +213,7 @@
       <workItem from="1550771665949" duration="2717000" />
       <workItem from="1550842687937" duration="9023000" />
       <workItem from="1550853194550" duration="14957000" />
-      <workItem from="1551110512003" duration="754000" />
+      <workItem from="1551113343361" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="jnnn">
       <created>1550771871966</created>
@@ -290,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37251000" />
+    <option name="totallyTimeSpent" value="36598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,8 +329,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4969743" weight="0.33551556" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4969743" visible="true" weight="0.33551556" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030257" side_tool="true" weight="0.33551556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -491,6 +504,13 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="306" column="35" lean-forward="true" selection-start-line="306" selection-start-column="35" selection-end-line="306" selection-end-column="35" />
         </state>
       </provider>
     </entry>
